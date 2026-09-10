@@ -1,0 +1,198 @@
+D:\lucasvinicius\DS\Pasta API\bin\Debug\net10.0\appsettings.Development.json
+D:\lucasvinicius\DS\Pasta API\bin\Debug\net10.0\appsettings.json
+D:\lucasvinicius\DS\Pasta API\bin\Debug\net10.0\Pasta API.staticwebassets.endpoints.json
+D:\lucasvinicius\DS\Pasta API\bin\Debug\net10.0\Pasta API.exe
+D:\lucasvinicius\DS\Pasta API\bin\Debug\net10.0\Pasta API.deps.json
+D:\lucasvinicius\DS\Pasta API\bin\Debug\net10.0\Pasta API.runtimeconfig.json
+D:\lucasvinicius\DS\Pasta API\bin\Debug\net10.0\Pasta API.dll
+D:\lucasvinicius\DS\Pasta API\bin\Debug\net10.0\Pasta API.pdb
+D:\lucasvinicius\DS\Pasta API\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\lucasvinicius\DS\Pasta API\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\lucasvinicius\DS\Pasta API\obj\Debug\net10.0\Pasta API.csproj.AssemblyReference.cache
+D:\lucasvinicius\DS\Pasta API\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\lucasvinicius\DS\Pasta API\obj\Debug\net10.0\Pasta API.GeneratedMSBuildEditorConfig.editorconfig
+D:\lucasvinicius\DS\Pasta API\obj\Debug\net10.0\Pasta API.AssemblyInfoInputs.cache
+D:\lucasvinicius\DS\Pasta API\obj\Debug\net10.0\Pasta API.AssemblyInfo.cs
+D:\lucasvinicius\DS\Pasta API\obj\Debug\net10.0\Pasta API.csproj.CoreCompileInputs.cache
+D:\lucasvinicius\DS\Pasta API\obj\Debug\net10.0\Pasta API.MvcApplicationPartsAssemblyInfo.cs
+D:\lucasvinicius\DS\Pasta API\obj\Debug\net10.0\Pasta API.MvcApplicationPartsAssemblyInfo.cache
+D:\lucasvinicius\DS\Pasta API\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\lucasvinicius\DS\Pasta API\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\lucasvinicius\DS\Pasta API\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\lucasvinicius\DS\Pasta API\obj\Debug\net10.0\scopedcss\bundle\Pasta API.styles.css
+D:\lucasvinicius\DS\Pasta API\obj\Debug\net10.0\staticwebassets.build.json
+D:\lucasvinicius\DS\Pasta API\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\lucasvinicius\DS\Pasta API\obj\Debug\net10.0\staticwebassets.development.json
+D:\lucasvinicius\DS\Pasta API\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\lucasvinicius\DS\Pasta API\obj\Debug\net10.0\swae.build.ex.cache
+D:\lucasvinicius\DS\Pasta API\obj\Debug\net10.0\Pasta API.csproj.Up2Date
+D:\lucasvinicius\DS\Pasta API\obj\Debug\net10.0\Pasta API.dll
+D:\lucasvinicius\DS\Pasta API\obj\Debug\net10.0\refint\Pasta API.dll
+D:\lucasvinicius\DS\Pasta API\obj\Debug\net10.0\Pasta API.pdb
+D:\lucasvinicius\DS\Pasta API\obj\Debug\net10.0\Pasta API.genruntimeconfig.cache
+D:\lucasvinicius\DS\Pasta API\obj\Debug\net10.0\ref\Pasta API.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\appsettings.Development.json
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Pasta API.staticwebassets.endpoints.json
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\appsettings.json
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Pasta API.exe
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Pasta API.deps.json
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Pasta API.runtimeconfig.json
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Pasta API.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Pasta API.pdb
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Azure.Core.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Azure.Identity.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Humanizer.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Microsoft.Identity.Client.Broker.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Microsoft.Identity.Client.NativeInterop.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Mono.TextTemplating.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\System.ClientModel.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\System.CodeDom.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\System.Composition.Convention.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\System.Composition.Hosting.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\System.Composition.Runtime.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\System.Composition.TypedParts.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\System.Memory.Data.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\runtimes\linux-x64\native\libmsalruntime.so
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\runtimes\osx-arm64\native\msalruntime_arm64.dylib
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\runtimes\osx-x64\native\msalruntime.dylib
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\runtimes\win-x64\native\msalruntime.dll
+D:\lucasvinicius\DS\RpgApi-main\bin\Debug\net10.0\runtimes\win-x86\native\msalruntime_x86.dll
+D:\lucasvinicius\DS\RpgApi-main\obj\Debug\net10.0\Pasta API.csproj.AssemblyReference.cache
+D:\lucasvinicius\DS\RpgApi-main\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\lucasvinicius\DS\RpgApi-main\obj\Debug\net10.0\Pasta API.GeneratedMSBuildEditorConfig.editorconfig
+D:\lucasvinicius\DS\RpgApi-main\obj\Debug\net10.0\Pasta API.AssemblyInfoInputs.cache
+D:\lucasvinicius\DS\RpgApi-main\obj\Debug\net10.0\Pasta API.AssemblyInfo.cs
+D:\lucasvinicius\DS\RpgApi-main\obj\Debug\net10.0\Pasta API.csproj.CoreCompileInputs.cache
+D:\lucasvinicius\DS\RpgApi-main\obj\Debug\net10.0\Pasta API.MvcApplicationPartsAssemblyInfo.cs
+D:\lucasvinicius\DS\RpgApi-main\obj\Debug\net10.0\Pasta API.MvcApplicationPartsAssemblyInfo.cache
+D:\lucasvinicius\DS\RpgApi-main\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\lucasvinicius\DS\RpgApi-main\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\lucasvinicius\DS\RpgApi-main\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\lucasvinicius\DS\RpgApi-main\obj\Debug\net10.0\scopedcss\bundle\Pasta API.styles.css
+D:\lucasvinicius\DS\RpgApi-main\obj\Debug\net10.0\staticwebassets.build.json
+D:\lucasvinicius\DS\RpgApi-main\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\lucasvinicius\DS\RpgApi-main\obj\Debug\net10.0\staticwebassets.development.json
+D:\lucasvinicius\DS\RpgApi-main\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\lucasvinicius\DS\RpgApi-main\obj\Debug\net10.0\swae.build.ex.cache
+D:\lucasvinicius\DS\RpgApi-main\obj\Debug\net10.0\Pasta API.csproj.Up2Date
+D:\lucasvinicius\DS\RpgApi-main\obj\Debug\net10.0\Pasta API.dll
+D:\lucasvinicius\DS\RpgApi-main\obj\Debug\net10.0\refint\Pasta API.dll
+D:\lucasvinicius\DS\RpgApi-main\obj\Debug\net10.0\Pasta API.pdb
+D:\lucasvinicius\DS\RpgApi-main\obj\Debug\net10.0\Pasta API.genruntimeconfig.cache
+D:\lucasvinicius\DS\RpgApi-main\obj\Debug\net10.0\ref\Pasta API.dll
