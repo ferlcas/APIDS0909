@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\lucasvinicius\\DS\\rpgapi1609\\Pasta API.csproj": {}
+    "D:\\lucasvinicius\\DS\\rpgapi1609 - Copia\\Pasta API.csproj": {}
   },
   "projects": {
-    "D:\\lucasvinicius\\DS\\rpgapi1609\\Pasta API.csproj": {
+    "D:\\lucasvinicius\\DS\\rpgapi1609 - Copia\\Pasta API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\lucasvinicius\\DS\\rpgapi1609\\Pasta API.csproj",
+        "projectUniqueName": "D:\\lucasvinicius\\DS\\rpgapi1609 - Copia\\Pasta API.csproj",
         "projectName": "Pasta API",
-        "projectPath": "D:\\lucasvinicius\\DS\\rpgapi1609\\Pasta API.csproj",
+        "projectPath": "D:\\lucasvinicius\\DS\\rpgapi1609 - Copia\\Pasta API.csproj",
         "packagesPath": "D:\\NugetPackages",
-        "outputPath": "D:\\lucasvinicius\\DS\\rpgapi1609\\obj\\",
+        "outputPath": "D:\\lucasvinicius\\DS\\rpgapi1609 - Copia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
